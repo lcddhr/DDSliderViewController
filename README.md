@@ -23,4 +23,6 @@
 
 开源控件 	[WWSideslipViewController](https://github.com/oopww1992/WWSideslipViewController)作者:[@oopww1992](https://github.com/oopww1992)
 
+博客: [http://www.liuchendi.com](http://www.liuchendi.com)
+
 
